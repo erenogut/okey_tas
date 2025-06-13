@@ -1,3 +1,5 @@
 flask
-ultralytics
 opencv-python
+ultralytics
+torch
+supervision
